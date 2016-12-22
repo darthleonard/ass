@@ -1,7 +1,7 @@
 # ass
 AppServSwitch
 
-script created in order to change the status of services used by appserv(apache, mysql) in gnu/linux distributions.
+script created in order to change the status of services used by appserv(apache, mysql) in GNU/Linux distributions.
 
 It can be loaded on a launcher.
 
